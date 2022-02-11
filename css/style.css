@@ -35,7 +35,7 @@ body {
 
 main {
   margin: 2rem;
-
+justify-content: center;
   display: grid;
   grid-template-columns: 20% auto 30%;
 }
@@ -43,8 +43,8 @@ aside {
   margin: .5rem;;
   width: 100%;
   display: flex;
-  flex-direction: row;
-  width: 100%;
+  justify-content: center;
+  
 }
 
 img {
